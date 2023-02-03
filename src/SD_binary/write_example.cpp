@@ -17,7 +17,8 @@ struct Datastore {
 File myFile;
 int loopcounter;// I had thought about making this long, but if we do that, and do math with regular numbers, everything goes crazy!
 const int datalen = 10;
-const char *filename="test.dat";
+
+const char filename = * "test.dat";
 Datastore mydata[datalen];
 
 int data_written;
