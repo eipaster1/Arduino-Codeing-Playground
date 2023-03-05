@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/PlatformIO/Projects/Arduino Codeing Playground"
+		},
+		{
+			"name": "Custom_Arduino_Code",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
